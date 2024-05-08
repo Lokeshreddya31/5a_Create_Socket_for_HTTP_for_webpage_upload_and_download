@@ -1,6 +1,7 @@
 # Exp-5 Create_Socket_for_HTTP_for_webpage_upload_and_download
-## Register Number: 212223040104
 ## Name: LOKESH REDDY A
+## Register Number: 212223040104
+
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
@@ -58,6 +59,8 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
+
+![image](https://github.com/Lokeshreddya31/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144870682/5bfdbc7c-eed3-4293-a8bc-7f80c5e11f93)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
